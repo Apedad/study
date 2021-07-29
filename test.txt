@@ -4,7 +4,7 @@ gitla
 
 a
 b
-
+c
 
 commit 4
 
